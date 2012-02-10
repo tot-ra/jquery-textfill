@@ -3,7 +3,7 @@
 	* Resizes an inner element's font so that the inner element completely fills the outer element.
 	* @author Russ Painter WebDesign@GeekyMonkey.com, Artjom Kurapov artkurapov@gmail.com
 	*
-	* @version 0.1
+	* @version 0.2
 	* @param {Object} Options which are maxFontPixels (default=40), innerTag (default='span')
 	* @return All outer elements processed
 	* @example <div class='mybigdiv filltext'><span>My Text To Resize</span></div>

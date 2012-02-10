@@ -1,1 +1,5 @@
-This file was created by JetBrains PhpStorm 3.0.2 for binding GitHub repository
+Resizes an inner element's font so that the inner element completely fills the outer element.
+
+
+Original author Russ Painter WebDesign@GeekyMonkey.com
+Modified by Artjom Kurapov artkurapov@gmail.com to make it understand min-height in px
